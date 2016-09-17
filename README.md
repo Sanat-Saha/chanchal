@@ -6,7 +6,7 @@ Based on these feedbacks, you can take corrective measures such as visiting a do
 Contributors 
 -----
 
--  Sanat Kumar Saha
+ -  Sanat Kumar Saha
 
   <a href="https://www.facebook.com/sanat.saha.180" target="_blank" title="facebook profile" style="width:100%"><img src="https://github.com/PhilJay/MPAndroidChart/blob/master/design/facebook_icon.png" title="Share on Facebook" width="35" height=35 />
     sanatsaha96@gmail.com
